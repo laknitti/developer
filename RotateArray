@@ -1,0 +1,4 @@
+You can solve the same using three  approaches.
+Approach 1 : Iterate the array for k times and rotate the element.
+Approach 2 : Use a temp array and place the index at (i+k)%length of array.
+Approach 3 : Using reverse. Reverse the whole array. Then reverse the first  k elements and followed by reverse the n-k elements.

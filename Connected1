@@ -1,0 +1,2 @@
+The idea is to find the connected 1 's in a 2 D array.
+This can solved by using DFS.This is quite similar to a common problem in DS. Finding the islands.
